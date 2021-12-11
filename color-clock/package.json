@@ -1,0 +1,16 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "phase2 assignment #1 creating package.json with npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "author": "flatiron",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.27.0",
+    "serve": "^13.0.2"
+  }
+}
